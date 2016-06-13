@@ -1,0 +1,13 @@
+development:
+  adapter: postgresql
+  database: codein30_development
+  encoding: unicode
+  username: Reggie
+  password: " "
+
+test:
+  adapter: postgresql
+  database: codein30_development
+  encoding: unicode
+  username: Reggie
+  password: " "
